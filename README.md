@@ -1,1 +1,1 @@
-# This is a JWT authentication via API example for me use in the future.
+# This is a JWT authentication via rails API example for me to use in the future.
